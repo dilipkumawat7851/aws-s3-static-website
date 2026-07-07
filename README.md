@@ -15,7 +15,10 @@ This project demonstrates how to host a static restaurant website using Amazon S
 - Custom Domain
 - DNS Configuration
 
-## Screenshots
+## Static Website Deployment.pdf-->check this 
+
+
+
 
 
 ## Author
